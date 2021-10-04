@@ -1,0 +1,27 @@
+[
+    {
+        "Course": "Exploring English Food And Culture",
+        "Charge":"1000$",
+        "Desc": "Improve your English language skills and learn how to cook some classic British dishes while exploring modern UK culture.",
+        "img": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "Course": "Professional Knife Skills",
+        "Charge":"1100$",
+        "Desc": "Certify your chef knife skills and learn how to prepare food safely and quickly using professional knife training techniques.",
+        "img": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "Course": "Learn How to Bake Pies and Tarts width experts  ",
+        "Charge":"1200$",
+        "Desc": "Bake top tasting tarts and pies you're proud of with this pastry-making masterclass from the baking experts at BBC Good Food.you can learn amy thing from experts",
+        "img": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "Course": "Introduction to Sustainable Practices in Food Service",
+        "Charge":"1300$",
+        "Desc": "Create a more sustainable food service business and make a difference to your bottom line, your stakeholders, and the environment.",
+        "img": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+
+]

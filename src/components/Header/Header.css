@@ -1,0 +1,61 @@
+
+
+.nav-container{
+
+
+    background-repeat: no-repeat;
+    background-color: black;
+    opacity: 0.8;
+
+}
+
+
+.nav-bar {
+
+  display: flex;
+
+
+  line-height: 40px;
+
+
+
+
+}
+
+.flex-container{
+  display: flex;
+  margin-left: auto;
+  padding: 20px;
+
+
+
+}
+.nav-bar li  {
+    list-style: none;
+    padding: 10px;
+
+
+
+
+
+}
+.Nav_link{
+    text-decoration: none;
+    color:white;
+
+    font-size: x-large;
+    padding: 10px;
+
+}
+.logo{
+
+    width:60px;
+    height: 60px;
+
+    margin-left:40px;
+    margin-top: 20px;
+
+
+
+
+}

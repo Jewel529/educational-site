@@ -1,0 +1,20 @@
+.service-container{
+
+
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 360px;
+    height: 460px;
+
+    box-shadow: 3px 3px 11px gray;
+    background: gray(209, 209, 209, 0.3)
+}
+.service-container img{
+
+    width: 310px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7px;
+}

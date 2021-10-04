@@ -1,0 +1,56 @@
+[
+    {
+        "name": "JOHN MCALLISTER",
+        "role": "FOOD TEACHER",
+        "desc": "he is been giving teaching over 10 years.the best in this field  ",
+        "img": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "JACK JOHNSON",
+        "role": "VEGAN SPECIALIST",
+        "desc": "he is VEGAN SPECIALIST.  giving teaching over 5 years.he is the best",
+        "img": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "ANDREW ROSSI",
+        "role": "CHEF MANAGER",
+        "desc": "he is CHEF MANAGER. giving teaching over 8 years.the best in this field",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "MARK SPITCH",
+        "role": "CHEF MANAGER",
+        "desc": "he is CHEF MANAGER. giving teaching over 7 years.the best in this field",
+        "img": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "LISA LONDA",
+        "role": "CHEF MANAGER",
+        "desc": "she is well known for varaties cooking.expereince in this field 5 years",
+        "img": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "MICHEL LONDA",
+        "role": "CHEF MANAGER",
+        "desc": "she is well known for sea food .expereince in this field over 5 years",
+        "img": "https://images.pexels.com/photos/3771106/pexels-photo-3771106.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "MAILA CYRUS",
+        "role": "CHEF MANAGER",
+        "desc": "she is well known for sea food .expereince in this field over 9 years",
+        "img": "https://images.pexels.com/photos/9004745/pexels-photo-9004745.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "JACK RONDY",
+        "role": "CHEF MANAGER",
+        "desc": "he is very good in  making cake .expereince in this field over 11 years",
+        "img": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "MIKE RONALD",
+        "role": "CHEF MANAGER",
+        "desc": "he is very good in sea food  .expereince in this field over 11 years",
+        "img": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

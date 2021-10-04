@@ -1,0 +1,17 @@
+.home-section{
+  display: flex;
+  margin-left: 50px;
+
+}
+.services-details{
+
+    width: 70%;
+
+}
+
+.course-text-style{
+
+  display: block;
+  font-weight: 900;
+
+}
