@@ -20,7 +20,7 @@ const Instructor = () => {
 
             <h1 className="text-center">Our Teacher</h1>
             <div>
-            <Row xs={1} md={4} className="g-4">
+            <Row xs={1} md={3} className="g-4">
                 {
                     instructors?.map(data=>
                     <InstructorDetails

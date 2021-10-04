@@ -6,9 +6,9 @@ const ServiceDetails = (props) => {
     return (
         <div className="service-container">
             <img src={img} alt="" />
-            <h5>{Course}</h5>
-            <p>{Desc}</p>
-            <p className="fw-bold text-success">Course Fee:{Charge}</p>
+            <h5 className="mx-4" >{Course}</h5>
+            <p className="mx-4" >{Desc}</p>
+            <p className="fw-bold text-success mx-4">Course Fee:{Charge}</p>
             <button className="button-style">Enroll Now</button>
 
         </div>

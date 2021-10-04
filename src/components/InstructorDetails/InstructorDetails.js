@@ -8,15 +8,15 @@ const InstructorDetails = (props) => {
     return (
         <div>
           <Col >
-      <Card className="class-container mb-5"  >
-        <Card.Img variant="top" src={img} className="card-style img-set" />
+      <Card className="instructor-container mb-5"  >
+        <Card.Img variant="top" src={img} className="card-style " />
         <Card.Body>
           <Card.Title>{name}</Card.Title>
-          <Card.Title className="role-style h5">{role}</Card.Title>
+          <Card.Title className="role-style h5 ">{role}</Card.Title>
           <Card.Text>
             {desc}
           </Card.Text>
-          <div className=" text-center" >
+          <div className=" text-center " >
           <button className="btn btn-success text-center"  >vist profile</button>
           </div>
 
