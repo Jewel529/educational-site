@@ -1,6 +1,6 @@
 # Cooking School
 
-Project Link [ Cooking Schooln](https://vibrant-elion-760c9c.netlify.app).
+Project Link [ Cooking School](https://vibrant-elion-760c9c.netlify.app).
 
 ##  this website will help:
 
