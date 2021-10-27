@@ -15,42 +15,47 @@ function App() {
     <div className="main-section" >
       <BrowserRouter>
         {/* header navigation always show even page are changed */}
-      <Header></Header>
+        <Header></Header>
 
         <Switch>
           <Route exact path="/">
-      {/* default home page will be showed if any router will not selected.that*/}
+            {/* default home page will be showed if any router will not selected.that*/}
             <Home></Home>
           </Route>
           <Route exact path="/home">
 
             <Home></Home>
           </Route>
-          <Route exact  path="/about">
-            <About></About>
-          </Route>
+          <Route exact path="/about">
+          <About></About>
+           </Route>
 
-          <Route exact  path="/services">
-          <Services></Services>
+          <Route exact path="/services">
+            <Services></Services>
           </Route>
 
           <Route exact path="/instructors">
             <Instructor></Instructor>
           </Route>
-          <Route  exact path="/join">
-           <JoinTeam></JoinTeam>
+          <Route exact path="/join">
+            <JoinTeam></JoinTeam>
           </Route>
 
           <Route exact path="*">
-              {/* 404 page will be showed */}
+            {/* 404 page will be showed */}
             <NotFound></NotFound>
           </Route>
 
         </Switch>
-            {/* Footer sectionalways show even page are changed */}
+        {/* Footer sectionalways show even page are changed */}
         <Footer></Footer>
 
+
+
+
+
       </BrowserRouter>
+
     </div>
   );
 }
